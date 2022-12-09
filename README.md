@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![GitHub Snake](./github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/ElPayo/ElPayo/blob/output/github-contribution-grid-snake.svg)
