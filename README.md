@@ -16,7 +16,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width=150px></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="JAVA" width=150px></img>
 <img src="https://cdn.iconscout.com/icon/free/png-128/javascript-3629449-3031512.png" alt="JAVASCRIPT" width=150px></img>
-<img src="https://www.clipartmax.com/png/middle/238-2382091_keyhole-markup-language-icons-ruby-language-ruby-icon.png" alt="Ruby" width=150px></img>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png" alt="Ruby" width=150px></img>
 
 ----
 ## My social media
