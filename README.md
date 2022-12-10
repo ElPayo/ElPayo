@@ -21,6 +21,7 @@
 ----
 ## My social media
 
+<a href="https://twitter.com/El_Payo_" target="blank"><img src="https://abs.twimg.com/responsive-web/client-web/icon-svg.168b89da.svg" alt="Twitter" width=50px></a>
 + Twitter: [Twitter](https://twitter.com/El_Payo_)
 + Instagram: [Instagram](https://www.instagram.com/el__payo__/)
 + Reddit: [Reddit](https://www.reddit.com/user/pay1sus)
