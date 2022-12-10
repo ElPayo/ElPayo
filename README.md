@@ -12,11 +12,11 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width=150px></img>
 <img src="https://github.com/sdelquin/pro/raw/main/ut0/images/bash.png" alt="Shell" width=150px></img>
-<img src="https://w7.pngwing.com/pngs/4/808/png-transparent-css3-css3-logo-logo-language-programming-language-css-3d-icon.png" alt="CSS" width=150px></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width=150px></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width=150px></img>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSGoUuU7hPFF1FpdbYDJsyCym1Z5alNpWyKfDWMUGNJ6u9eRwazV4OfU6jzj7jMLdlM5o&usqp=CAU" alt="JAVA" width=150px></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="JAVA" width=150px></img>
 <img src="https://cdn.iconscout.com/icon/free/png-128/javascript-3629449-3031512.png" alt="JAVASCRIPT" width=150px></img>
-<img src="https://www.clipartmax.com/png/middle/109-1092067_ruby-logo-png-ruby-icon.png" alt="Ruby" width=150px></img>
+<img src="https://www.clipartmax.com/png/middle/238-2382091_keyhole-markup-language-icons-ruby-language-ruby-icon.png" alt="Ruby" width=150px></img>
 
 ----
 ## My social media
