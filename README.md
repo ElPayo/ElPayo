@@ -24,7 +24,4 @@
 <a href="https://twitter.com/El_Payo_"><img src="https://abs.twimg.com/responsive-web/client-web/icon-svg.168b89da.svg" alt="Twitter" width=50px></a>
 <a href="https://www.instagram.com/el__payo__/"><img src="https://static.cdninstagram.com/rsrc.php/v3/yG/r/De-Dwpd5CHc.png" alt="Instagram" width=50px></a>
 <a href="https://www.reddit.com/user/pay1sus"><img src="https://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png" alt="Reddit" width=50px></a>
-+ Twitter: [Twitter](https://twitter.com/El_Payo_)
-+ Instagram: [Instagram](https://www.instagram.com/el__payo__/)
-+ Reddit: [Reddit](https://www.reddit.com/user/pay1sus)
-+ Discord: [Discord](https://discord.com/users/501468024281366528)
+<a href="https://discord.com/users/501468024281366528"><img src="https://discord.com/assets/847541504914fd33810e70a0ea73177e.ico" alt="Discord" width=50px></a>
