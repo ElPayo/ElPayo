@@ -17,7 +17,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="JAVA" width=50px></img>
 <img src="https://cdn.iconscout.com/icon/free/png-128/javascript-3629449-3031512.png" alt="JAVASCRIPT" width=50px></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png" alt="Ruby" width=50px></img>
-<img src="https://www.php.net/images/logos/php-logo.svg" alt="PHP" width=50px></img>
+<img src="https://www.php.net/images/logos/php-logo.svg" alt="PHP" width=100px></img>
 
 ----
 ## My social media
