@@ -10,7 +10,7 @@
 ----
 ## What you may find in my reps
 
-<img src="https://img2.freepng.es/20180320/fkq/kisspng-angle-text-symbol-brand-other-python-5ab0c09b32b4d1.7494578715215330832077.jpg" alt="Python" width=150px></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width=150px></img>
 <img src="https://img1.freepng.es/20180808/ztj/kisspng-bash-shell-script-bourne-shell-scripting-language-create-and-delete-files-and-folders-in-bash-from-5b6ab0e69e1b41.6419858815337187586476.jpg" alt="Shell" width=150px></img>
 <img src="https://w7.pngwing.com/pngs/4/808/png-transparent-css3-css3-logo-logo-language-programming-language-css-3d-icon.png" alt="CSS" width=150px></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width=150px></img>
